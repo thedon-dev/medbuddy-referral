@@ -1,0 +1,7 @@
+# supabase/config.toml
+[general]
+project_id = "ywfsdbsepvbkhsbafhkd"
+
+[functions.send-referral-email]
+enabled = true
+verify_jwt = false
